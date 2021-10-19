@@ -1,0 +1,15 @@
+.navMenu a {
+  text-decoration: none;
+  color: white;
+}
+.footer {
+  text-align: center;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  margin: 3px;
+}
+h1 {
+  text-align: center;
+  padding: 20px;
+}
